@@ -1,0 +1,10 @@
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\bin\Debug\NP_HW_Modul_02_c_01_1590731817 _server.exe.config
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\bin\Debug\NP_HW_Modul_02_c_01_1590731817%20_server.exe
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\bin\Debug\NP_HW_Modul_02_c_01_1590731817%20_server.pdb
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817 _server.csproj.AssemblyReference.cache
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817_20_server.Form1.resources
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817_20_server.Properties.Resources.resources
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817%20_server.csproj.GenerateResource.cache
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817%20_server.csproj.CoreCompileInputs.cache
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817%20_server.exe
+E:\NP_HW_Modul_02_c_01_1590731817%20_server\obj\Debug\NP_HW_Modul_02_c_01_1590731817%20_server.pdb
